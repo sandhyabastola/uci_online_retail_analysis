@@ -33,4 +33,7 @@ Go to Google Colab
 1. Click File → Open notebook → GitHub.
 2. Enter your repository URL:
 https://github.com/sandhyabastola/uci_online_retail_analysis
-3. Open retail_analysis.ipynb and run all cells.
+3. Open online_retail_analysis.ipynb and run all cells.
+
+## Doenload the datasets from the given link below
+https://archive.ics.uci.edu/dataset/352/online+retail
