@@ -35,5 +35,5 @@ Go to Google Colab
 https://github.com/sandhyabastola/uci_online_retail_analysis
 3. Open online_retail_analysis.ipynb and run all cells.
 
-## Doenload the datasets from the given link below
+## Download the datasets from the given link below
 https://archive.ics.uci.edu/dataset/352/online+retail
